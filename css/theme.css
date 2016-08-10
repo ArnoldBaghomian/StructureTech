@@ -63,13 +63,22 @@ body {
   font-size: 18px !important;
   letter-spacing: 0 !important;
   text-transform: uppercase !important;
-  color: #fff !important;
+  color: #F26D21 !important;
+}
+
+#menow {
+  font-family: open sans;
+  font-size: 18px !important;
+  font-weight: bold;
+  letter-spacing: 0 !important;
+  text-transform: uppercase !important;
+  color: #000000 !important;
 }
 .main-slider .ms-view {
   height: 584px !important;
 }
 .ms-anim-layers h1 {
-  color: #fff !important;
+  color: #1E90FF !important;
   font-family: Montserrat;
    letter-spacing: 0 !important;
   font-size: 62px !important;
