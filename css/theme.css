@@ -72,13 +72,13 @@ body {
   font-weight: bold;
   letter-spacing: 0 !important;
   text-transform: uppercase !important;
-  color: #000000 !important;
+  color: #0000FF !important;
 }
 .main-slider .ms-view {
   height: 584px !important;
 }
 .ms-anim-layers h1 {
-  color: #1E90FF !important;
+  color: #FFFF00 !important;
   font-family: Montserrat;
    letter-spacing: 0 !important;
   font-size: 62px !important;
@@ -116,6 +116,7 @@ body {
 .ms-anim-layers a:hover {
   background-color: #f4bc16;
   color: #000;
+  font-size: 18.5709px;
 }
 .text-uppercase {
   text-transform: uppercase;

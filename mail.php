@@ -1,6 +1,6 @@
 <?php
-define('admin_email','yourEmail@yourDomain.com'); // Change admin email here for example admin@yoursite.com
-define('website_name','Roofcare'); // Change website name here for example yoursite.com
+define('admin_email','vrej1414@yahoo.com'); // Change admin email here for example admin@yoursite.com
+define('website_name','Structureretrofit.com'); // Change website name here for example yoursite.com
 define('website_url', 'http://'.$_SERVER['HTTP_HOST']);
 
 function strict_secure($str){
@@ -37,7 +37,7 @@ if(isset($_POST['action']) && $_POST['action']=='submitform')
 	$user_message ='
 	Hello '.strict_secure($N['name']).',
 	<br /><br /><br /><br />
-	Thank you for contacting us. Your following message has been received by Administrator:
+	Thank you for contacting us. Your following message has been received by us.
 	<br /><br />
 	Email: '.strict_secure($N['email']).'<br /><br />
 	Message:<br /><br />
